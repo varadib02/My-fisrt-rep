@@ -15,10 +15,11 @@
 
 [Hivatkozas](index.php) fájlra hivatkozás
 
-alt gr+7
-
+# alt gr+7 (``` ```)
+-js
 ``` javascript
 console.log("Hello");
 ```
+-c#
 ```c#
-console.Writeline("Hello Word");```
+Console.Writeline("Hello Word");
