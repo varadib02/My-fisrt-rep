@@ -13,4 +13,4 @@
 - sd
 - fd
 
-[Hivatkozas](www.acsjszki.hu)
+[Hivatkozas](index.html)
