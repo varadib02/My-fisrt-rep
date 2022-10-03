@@ -15,6 +15,6 @@
 
 [Hivatkozas](index.php) fájlra hivatkozás
 
-''' javascript
+``` javascript
 console.log("Hello");
-'''
+```
