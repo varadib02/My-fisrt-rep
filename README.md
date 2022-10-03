@@ -13,8 +13,8 @@
 - sd
 - fd
 
-[Hivatkozas](index.html)
+[Hivatkozas](index.php) fájlra hivatkozás
 
-'''javascript
+''' javascript
 console.log("Hello");
 '''
