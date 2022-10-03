@@ -14,3 +14,7 @@
 - fd
 
 [Hivatkozas](index.html)
+
+'''javascript
+console.log("Hello");
+'''
