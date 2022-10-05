@@ -15,13 +15,10 @@
 
 [Hivatkozas](index.php) fájlra hivatkozás
 
-# alt gr+7 (``` ```)
+# alt gr+7 (```  ```)
 -js
 ``` javascript
 console.log("Hello");
 ```
--c#
-```c#
-Console.Writeline("Hello Word");
 
 Update Readme.md
