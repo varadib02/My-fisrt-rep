@@ -20,13 +20,14 @@ def gyok_hatvanyozas():
 
 #fix elem bekérése
 #listába tárolás
-n=5
-lista = []
-for i in range(0,n):
-    be_adat=input(f"Kérem az {i+1} elemet: ")
-    #listához hozzáadás
-    lista.append(be_adat)
-#kiírás adatonként, lista végéig 
-for i in range(len(lista)):
-    print(lista[i])
+def lista():
+    n=5
+    lista = []
+    for i in range(0,n):
+        be_adat=input(f"Kérem az {i+1} elemet: ")
+        #listához hozzáadás
+        lista.append(be_adat)
+    #kiírás adatonként, lista végéig 
+    for i in range(len(lista)):
+        print(lista[i])
 
