@@ -1,0 +1,3 @@
+alma;gyümölcs
+víz,ital
+könyv;tárgy
